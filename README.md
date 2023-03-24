@@ -1,10 +1,10 @@
 # otterbots-openAI
 
-npm create vite@latest client --template vanilla
-Select Vanilla framework
-Select Javascript
-cd client
-npm install
+#npm create vite@latest client --template vanilla
+#Select Vanilla framework
+#Select Javascript
+#cd client
+#npm install
 
 Server Folder
 npm install cors dotenv express nodemon openai
